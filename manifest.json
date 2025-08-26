@@ -1,0 +1,20 @@
+{
+	"manifest_version": 3,
+	"name": "Canvas Dark Toggle",
+	"version": "0.1.1",
+	"description": "Toggle a simple dark mode on Canvas LMS pages.",
+	"permissions": ["storage", "activeTab"],
+	"host_permissions": ["*://*.instructure.com/*", "*://canvas.uc.edu/*"],
+	"action": {
+		"default_title": "Canvas Dark Mode",
+		"default_popup": "popup.html"
+	},
+	"content_scripts": [
+		{
+			"matches": ["*://*.instructure.com/*"],
+			"js": ["content.js"],
+			"css": ["styles.css"],
+			"run_at": "document_start"
+		}
+	]
+}

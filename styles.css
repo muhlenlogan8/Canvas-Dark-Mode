@@ -1,0 +1,14 @@
+html.canvas-dark,
+html.canvas-dark body {
+    background: #1a1d24 !important;
+    color: #e6e6e6 !important;
+}
+
+/* Canvas Dashboard Header */
+html.canvas-dark #dashboard_header_container,
+html.canvas-dark .ic-Dashboard-header,
+html.canvas-dark .PlannerHeader-styles__root {
+  background: #1a1d24 !important;   /* dark background */
+  color: #e6e6e6 !important;        /* light text */
+  border-color: #2a2f3a !important; /* optional, keeps separation */
+}
