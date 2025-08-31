@@ -1,14 +1,188 @@
 html.canvas-dark,
 html.canvas-dark body {
-    background: #1a1d24 !important;
-    color: #e6e6e6 !important;
+  background: #1a1d24 !important;
+  color: #dddddd !important;
 }
 
-/* Canvas Dashboard Header */
 html.canvas-dark #dashboard_header_container,
 html.canvas-dark .ic-Dashboard-header,
 html.canvas-dark .PlannerHeader-styles__root {
-  background: #1a1d24 !important;   /* dark background */
-  color: #e6e6e6 !important;        /* light text */
-  border-color: #2a2f3a !important; /* optional, keeps separation */
+  background: #1a1d24 !important;
+  color: #dddddd !important;
+  border-color: #2a2f3a !important;
+}
+
+html.canvas-dark .ic-Dashboard-header__layout {
+  background: #1a1d24 !important;
+  color: #dddddd !important;
+}
+
+html.canvas-dark .Grouping-styles__hero {
+  background-color: #2a2f3a !important;
+  color: #dddddd !important;
+}
+
+html.canvas-dark .Grouping-styles__title {
+  background-color: #2a2f3a !important;
+  color: #dddddd !important;
+}
+
+html.canvas-dark .Grouping-styles__title::after {
+  background-color: #2a2f3a !important;
+}
+
+html.canvas-dark h2[dir="ltr"] {
+  color: #dddddd !important;
+}
+
+html.canvas-dark button[dir="ltr"] {
+  background-color: transparent !important;
+  color: rgb(203 84 40) !important;
+}
+
+html.canvas-dark .PlannerItem-styles__root {
+  color: #dddddd !important;
+}
+
+html.canvas-dark .css-1w79pxc-text {
+  color: #dddddd !important;
+}
+
+html.canvas-dark .css-r9cwls-screenReaderContent {
+  color: rgb(203 84 40) !important;
+}
+
+html.canvas-dark span[color="secondary"] {
+  color: #dddddd !important;
+}
+
+html.canvas-dark span[dir=ltr] {
+  color: #dddddd !important;
+}
+
+html.canvas-dark .ic-app-header__logomark {
+  background-color: #464950 !important;
+}
+
+html.canvas-dark a {
+  color: rgb(203 84 40) !important;
+}
+
+html.canvas-dark .css-qi8ml9-baseButton__childrenLayout {
+  color: rgb(203 84 40) !important;
+}
+
+html.canvas-dark nav {
+  background-color: #1a1d24 !important;
+}
+
+html.canvas-dark .icon-hamburger {
+  color: rgb(203 84 40) !important;
+}
+
+html.canvas-dark tr.date_passed {
+  background: #1a1d24 !important;
+  color: #dddddd !important;
+}
+
+html.canvas-dark .course-options {
+  background: #a5a5a5 !important;
+}
+
+html.canvas-dark .mini_month {
+  color: #dddddd !important;
+}
+
+[role="complementary"][aria-label="Assignment Weights"] .summary thead {
+  background: #1a1d24 !important;
+}
+
+[role="complementary"][aria-label="Assignment Weights"] .summary th,
+[role="complementary"][aria-label="Assignment Weights"] .summary td {
+  border: 1px solid #444 !important;
+}
+
+html.canvas-dark tbody {
+  background-color: #2a2f3a;
+  color: #dddddd !important;
+}
+
+html.canvas-dark tr,
+html.canvas-dark th,
+html.canvas-dark td {
+  background-color: #2a2f3a;
+  color: #868686 !important;
+}
+
+html.canvas-dark .day_number {
+  color: #dddddd;
+}
+
+html.canvas-dark .mini-cal-month-and-year {
+  color: #dddddd !important;
+}
+
+html.canvas-dark .day_wrapper {
+  color: #747474
+}
+
+html.canvas-dark [role="complementary"][aria-label="Assignment Weights"] table.summary tbody,
+html.canvas-dark [role="complementary"][aria-label="Assignment Weights"] table.summary tr,
+html.canvas-dark [role="complementary"][aria-label="Assignment Weights"] table.summary th,
+html.canvas-dark [role="complementary"][aria-label="Assignment Weights"] table.summary td {
+  background-color: #2a2f3a !important;
+  color: #dddddd !important;
+}
+
+html.canvas-dark .css-1xm0vad-view {
+  background-color: #1a1d24 !important;
+}
+
+html.canvas-dark .css-8bodfv-text {
+  color: #dddddd !important;
+}
+
+html.canvas-dark div {
+  background-color: #1a1d24 !important;
+  color: #dddddd;
+}
+
+html.canvas-dark .name {
+  color: #dddddd !important;
+}
+
+html.canvas-dark .menu-item.ic-app-header__menu-list-item.ic-app-header__menu-list-item--active {
+  background-color: #232630 !important;
+}
+
+html.canvas-dark .menu-item__text {
+  color: #dddddd !important;
+}
+
+html.canvas-dark .css-1t33fct-view-link {
+  color: rgb(203 84 40) !important;
+}
+
+html.canvas-dark .css-1jyml41-text {
+  color: rgb(203 84 40) !important;
+}
+
+html.canvas-dark .css-1i8jix1-view--inlineBlock-inlineListItem {
+  color: #9b9b9b !important;
+}
+
+html.canvas-dark .css-kzthf1-view--block {
+  color: #9b9b9b !important;
+}
+
+html.canvas-dark .syllabusTableBody {
+  background-color: #2a2f3a !important;
+}
+
+html.canvas-dark .PlannerItem-styles__title {
+  background-color: transparent !important;
+}
+
+html.canvas-dark .css-3tuj8u-text {
+  color: #fff !important;
 }
