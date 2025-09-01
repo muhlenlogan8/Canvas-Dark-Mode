@@ -123,7 +123,7 @@ html.canvas-dark .mini-cal-month-and-year {
 }
 
 html.canvas-dark .day_wrapper {
-  color: #747474
+  color: #a3a3a3
 }
 
 html.canvas-dark [role="complementary"][aria-label="Assignment Weights"] table.summary tbody,
@@ -186,3 +186,24 @@ html.canvas-dark .PlannerItem-styles__title {
 html.canvas-dark .css-3tuj8u-text {
   color: #fff !important;
 }
+
+html.canvas-dark .clickthrough-container {
+  background-color: transparent !important;
+}
+
+html.canvas-dark .css-8aaix9-pill {
+  border-color: #2b7c2f !important;
+}
+
+html.canvas-dark .ic-app-header__menu-list-item.ic-app-header__menu-list-item--active .ic-app-header__menu-list-link {
+  background-color: #868686 !important;
+}
+
+html.canvas-dark li.menu-item.ic-app-header__menu-list-item.ic-app-header__menu-list-item--active .menu-item-icon-container {
+  background-color: #868686 !important;
+}
+
+html.canvas-dark li.menu-item.ic-app-header__menu-list-item.ic-app-header__menu-list-item--active .menu-item__text {
+  background-color: #868686 !important;
+}
+
