@@ -207,3 +207,14 @@ html.canvas-dark li.menu-item.ic-app-header__menu-list-item.ic-app-header__menu-
   background-color: #868686 !important;
 }
 
+html.canvas-dark .css-1ta5ds2-baseButton__content {
+  background-color: #2a2f3a !important;
+  color: #dddddd !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+html.canvas-dark .css-1ta5ds2-baseButton__content:hover {
+  background-color: #868686 !important;
+  color: #2a2f3a !important;
+}
